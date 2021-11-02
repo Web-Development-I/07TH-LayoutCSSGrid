@@ -26,9 +26,9 @@
 }
 
 /* Merk op dat de getallen lijnnummers zijn.
-        'grid-row: 3/5' betekent dus dat de div 
-        rij 3 en rij 4 overspant.
-        */
+  'grid-row: 3/5' betekent dus dat de div 
+  rij 3 en rij 4 overspant.
+ */
 
 div:nth-of-type(2) {
   grid-row: 3/5;
